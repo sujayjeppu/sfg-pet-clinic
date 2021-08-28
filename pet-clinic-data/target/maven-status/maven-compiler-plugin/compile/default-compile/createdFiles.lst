@@ -1,0 +1,5 @@
+com\jeppu\sfgpetclinic\model\Vet.class
+com\jeppu\sfgpetclinic\model\Owner.class
+com\jeppu\sfgpetclinic\model\Pet.class
+com\jeppu\sfgpetclinic\model\PetType.class
+com\jeppu\sfgpetclinic\model\Person.class
