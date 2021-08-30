@@ -1,6 +1,6 @@
 package com.jeppu.sfgpetclinic.services;
 
-import com.jeppu.sfgpetclinic.model.Owner;
+import com.jeppu.sfgpetclinic.model.Pet;
 
-public interface PetService extends CrudService<Owner, Long>{
+public interface PetService extends CrudService<Pet, Long>{
 }
